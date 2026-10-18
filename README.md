@@ -1,0 +1,2 @@
+# AXI-Interconnect-with-multiple-masters-slaves---UVM-Verification
+UVM-based verification environment for an AXI4 interconnect. Features multi-master/multi-slave agents with env_config-driven agent counts, one reset agent, semaphore-synchronized drivers and monitors across AW/W/B/AR/R channels, and tests for FIXED, INCR, WRAP, random and arbitration scenarios. Built with SystemVerilog, VCS and QuestaSim.
